@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Wireless Mouse",
+    "price": 29.99,
+    "stockQuantity": 15,
+    "lowStockThreshold": 5
+  },
+  {
+    "id": 2,
+    "name": "Mechanical Keyboard",
+    "price": 89.99,
+    "stockQuantity": 2,
+    "lowStockThreshold": 5
+  },
+  {
+    "id": 3,
+    "name": "USB-C Hub",
+    "price": 45.5,
+    "stockQuantity": 11,
+    "lowStockThreshold": 3
+  },
+  {
+    "id": 4,
+    "name": "Noise Cancelling Headphones",
+    "price": 199.99,
+    "stockQuantity": 0,
+    "lowStockThreshold": 2
+  },
+  {
+    "id": 5,
+    "name": "HD Webcam",
+    "price": 59.99,
+    "stockQuantity": 9,
+    "lowStockThreshold": 4
+  },
+  {
+    "id": 6,
+    "name": "Monitor Stand",
+    "price": 35,
+    "stockQuantity": 20,
+    "lowStockThreshold": 5
+  }
+]
