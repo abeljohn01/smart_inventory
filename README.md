@@ -9,7 +9,7 @@ Designed to demonstrate responsive UI, real-time-like interactions, and serverle
 
 
 ## Live Demo
-**(https://abel-shopping-cart.vercel.app/)**  
+**(https://abel-shop-delta.vercel.app/)**  
 
 
 ## Features
