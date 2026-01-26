@@ -46,7 +46,7 @@ function App() {
       );
     } catch (err) {
       console.error(err);
-      throw err; // Re-throw to let child component handle UI state if needed
+      throw err; 
     }
   };
 
