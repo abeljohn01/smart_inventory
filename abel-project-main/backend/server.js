@@ -21,7 +21,7 @@ app.use(bodyParser.json());
 const initializeData = () => {
     if (IS_VERCEL && !fs.existsSync(DATA_FILE)) {
         try {
-            // Write the bundled seedData to /tmp
+         
             fs.writeFileSync(DATA_FILE, JSON.stringify(seedData, null, 2));
             console.log("Initialized /tmp/products.json from bundled seed data.");
         } catch (err) {
